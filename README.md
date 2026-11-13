@@ -9,10 +9,8 @@ It is important to keep the repository organised throughout the module. Students
 
 Each assessment task has a dedicated folder. Make sure you upload your work to the correct location:
 
-Clone Task 1 – Layout in React: assessment-1-clone-tasks/task-1-layout-in-react
+Clone Task 1 – Layout in React: assessment-1-clone-tasks/Task-1
 
-Clone Task 2 – Responsive Layouts: assessment-1-clone-tasks/task-2-responsive-layouts
-
-Assessment 2 – Multi-Device Application: assessment-2-multi-device-application
+Clone Task 2 – Responsive Layouts: assessment-1-clone-tasks/task-2
 
 Important submission reminder: Only the code successfully pushed to the official GitHub repository before the assessment deadline will be considered for marking. Therefore, check that all your files have been uploaded correctly and complete your final push well before the deadline.
