@@ -1,6 +1,17 @@
-S1: Clone Tasks
-There is one folder for each Clone Task. Each folder contains the files you will need for that task. You should start by reading the README specification first. This will be easier to do if you open your GitHub repository in Visual Studio Code and use the Markdown Preview feature. Alternatively, you can view your repository on GitHub.com.
+Web Dev II – GitHub Repository and Assessment Submission Guidelines
+Assessment-1-Clone-Tasks
 
-Your solution to each exercise should be well organised, appropriately named, and easy to find.
 
-Please read the full assessment brief on Ultra
+The official GitHub repository is the main place to store and submit all assessment work for the Web Dev II module. Students are also welcome to use it for saving and organising their classroom exercises.
+
+It is important to keep the repository organised throughout the module. Students should regularly commit their work, use clear and meaningful commit messages, and push their latest changes to GitHub.
+
+Each assessment task has a dedicated folder. Make sure you upload your work to the correct location:
+
+Clone Task 1 – Layout in React: assessment-1-clone-tasks/task-1-layout-in-react
+
+Clone Task 2 – Responsive Layouts: assessment-1-clone-tasks/task-2-responsive-layouts
+
+Assessment 2 – Multi-Device Application: assessment-2-multi-device-application
+
+Important submission reminder: Only the code successfully pushed to the official GitHub repository before the assessment deadline will be considered for marking. Therefore, check that all your files have been uploaded correctly and complete your final push well before the deadline.
