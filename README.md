@@ -11,6 +11,6 @@ Each assessment task has a dedicated folder. Make sure you upload your work to t
 
 Clone Task 1 – Layout in React: assessment-1-clone-tasks/Task-1
 
-Clone Task 2 – Responsive Layouts: assessment-1-clone-tasks/task-2
+Clone Task 2 – Responsive Layouts: assessment-1-clone-tasks/Task-2
 
 Important submission reminder: Only the code successfully pushed to the official GitHub repository before the assessment deadline will be considered for marking. Therefore, check that all your files have been uploaded correctly and complete your final push well before the deadline.
